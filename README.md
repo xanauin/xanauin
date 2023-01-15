@@ -7,21 +7,6 @@ I develop small games because I'm trying to find my professional industry. One w
 <a><img src="https://img.icons8.com/ios-filled/512/unity.png" width="48" height="48" alt="Unity" /></a>
 <a><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="48" height="48" alt="C#" />
 </p>
-<h2>But also, I have knowledge in Web-Development and TG-bots:</h2>
-<p align="left">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="48" height="48" alt="HTML5" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="48" height="48" alt="CSS3" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="48" height="48" alt="JavaScript" />
-<br>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="48" height="48" alt="Sass" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="48" height="48" alt="Bootstrap" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="48" height="48" alt="Django" />
-</p>
-<h2>I also write on:</h2>
-<p align="left">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="48" height="48" alt="Python" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="48" height="48" alt="Ruby" />
-</p>
 <h2>I work in:</h2>
 <p align="left">
 <img src="https://img.icons8.com/fluency/512/adobe-after-effects.png" width="48" height="48" alt="AfterEffects" />
