@@ -2,9 +2,11 @@ Hello everyone! I'm glad to see you in my GitHub Profile :3
 ==========
 <h2>About Me👨‍🎓:</h2>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xanauin&theme=dracula)
+
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=xanauin&show_icons=true&theme=onedark"
+  srcset="https://github-readme-stats.vercel.app/api?username=xanauin&show_icons=true&theme=dracula"
   media="(prefers-color-scheme: dark)"
 />
 <source
@@ -13,8 +15,10 @@ Hello everyone! I'm glad to see you in my GitHub Profile :3
 />
 <img src="https://github-readme-stats.vercel.app/api?username=xanauin&show_icons=true" />
 </picture>
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=xanauin&column=3&margin-w=15&margin-h=15&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xanauin&theme=dracula)
+[![](https://github-profile-trophy.vercel.app/?username=xanauin&column=3&margin-w=15&margin-h=15&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 I'm a beginner C# developer, I think this is my main direction🤔.
 <br>
