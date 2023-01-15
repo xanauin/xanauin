@@ -1,8 +1,7 @@
 Hello everyone! I'm glad to see you in my GitHub Profile :3
 ==========
 <h2>About Me👨‍🎓:</h2>
-I'm a beginner C# developer, I think this is my main direction🤔.
-I develop small games because I'm trying to find my professional industry. One where I enjoy developing cool games🎮.
+
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=xanauin&show_icons=true&theme=dracula"
@@ -14,6 +13,9 @@ I develop small games because I'm trying to find my professional industry. One w
 />
 <img src="https://github-readme-stats.vercel.app/api?username=xanauin&show_icons=true" />
 </picture>
+<br>
+I'm a beginner C# developer, I think this is my main direction🤔.
+I develop small games because I'm trying to find my professional industry. One where I enjoy developing cool games🎮.
 <p align="left">
 <a><img src="https://img.icons8.com/ios-filled/512/unity.png" width="48" height="48" alt="Unity" /></a>
 <a><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="48" height="48" alt="C#" />
