@@ -7,13 +7,11 @@ I develop small games because I'm trying to find my professional industry. One w
 <a><img src="https://img.icons8.com/ios-filled/512/unity.png" width="48" height="48" alt="Unity" /></a>
 <a><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="48" height="48" alt="C#" />
 </p>
-<h2>I work in:</h2>
+<h2>I use:</h2>
 <p align="left">
 <img src="https://img.icons8.com/fluency/512/adobe-after-effects.png" width="48" height="48" alt="AfterEffects" />
 <img src="https://img.icons8.com/fluency/512/adobe-premiere-pro.png" width="48" height="48" alt="PremierPro" />
 <img src="https://img.icons8.com/fluency/512/adobe-xd.png" width="48" height="48" alt="Xd" />
-</p>
-<p align="left">
 <img src="https://img.icons8.com/fluency/512/adobe-photoshop.png" width="48" height="48" alt="Photoshop" />
 <img src="https://img.icons8.com/fluency/512/adobe-illustrator.png" width="48" height="48" alt="Illustrator" />
 <img src="https://img.icons8.com/fluency/512/adobe-dreamweaver.png" width="48" height="48" alt="Dreamweaver" />
