@@ -32,6 +32,7 @@ Hello everyone! I'm glad to see you in my GitHub Profile :3
 <a><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="48" height="48" alt="C#" />
 </p>
 <h2>I use🧑‍💻:</h2>
+<h4>I use these programs to create design and media content for my projects🖥️.<h4>
 <p align="left">
 <img src="https://img.icons8.com/color/512/adobe-photoshop--v1.png" width="48" height="48" alt="Photoshop" />
 <img src="https://img.icons8.com/color/512/adobe-illustrator--v1.png" width="48" height="48" alt="Illustrator" />
@@ -39,8 +40,12 @@ Hello everyone! I'm glad to see you in my GitHub Profile :3
 <img src="https://img.icons8.com/color/512/adobe-premiere-pro--v1.png" width="48" height="48" alt="PremierPro" />
 <img src="https://img.icons8.com/color/512/adobe-dreamweaver--v1.png" width="48" height="48" alt="Dreamweaver" />
 <img src="https://img.icons8.com/color/512/figma.png" width="48" height="48" alt="Figma" />
-<br>
-I use these programs to create design and media content for my projects🖥️.
+</p>
+<h4>And use these to write code⌨️.<h4>
+<p align="left">
+<img src="https://img.icons8.com/color/512/visual-studio-code-2019.png" width="48" height="48" alt="VisualStudioCode" />
+<img src="https://img.icons8.com/color/512/visual-studio--v2.png" width="48" height="48" alt="VisualStudio" />
+<img src="https://img.icons8.com/color/512/android-studio--v3.png" width="48" height="48" alt="AndroidStudio" />
 </p>
 <h2>My social media profiles👀:</h2>
 <p align="left"> 
