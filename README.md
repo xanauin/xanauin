@@ -3,6 +3,17 @@ Hello everyone! I'm glad to see you in my GitHub Profile :3
 <h2>About Me👨‍🎓:</h2>
 I'm a beginner C# developer, I think this is my main direction🤔.
 I develop small games because I'm trying to find my professional industry. One where I enjoy developing cool games🎮.
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=xanauin&show_icons=true&theme=dracula"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=xanauin&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=xanauin&show_icons=true" />
+</picture>
 <p align="left">
 <a><img src="https://img.icons8.com/ios-filled/512/unity.png" width="48" height="48" alt="Unity" /></a>
 <a><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="48" height="48" alt="C#" />
@@ -24,16 +35,6 @@ I use these programs to create design and media content for my projects🖥️.
 <a href="[https://t.me/xanauinn](mailto:https://t.me/xanauinn)" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/512/telegram-app.png" width="48" height="48" /></a>
 <img src="https://img.icons8.com/color/512/behance.png" width="48" height="48" />
 </p>
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=xanauin&show_icons=true&theme=dracula"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=xanauin&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=xanauin&show_icons=true" />
-</picture>
+
 
 [![](https://github-readme-activity-graph.cyclic.app/graph?username=xanauin&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
