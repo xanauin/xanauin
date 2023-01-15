@@ -16,11 +16,13 @@ Hello everyone! I'm glad to see you in my GitHub Profile :3
 <br>
 I'm a beginner C# developer, I think this is my main direction🤔.
 <br>
+<br>
 I develop small games because I'm trying to find my professional industry. One where I enjoy developing cool games🎮.
 <p align="left">
+<br>
 <a><img src="https://img.icons8.com/ios-filled/512/unity.png" width="48" height="48" alt="Unity" /></a>
 <a><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="48" height="48" alt="C#" />
-  
+<br>
 [![](https://github-readme-activity-graph.cyclic.app/graph?username=xanauin&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </p>
 <h2>I use🧑‍💻:</h2>
