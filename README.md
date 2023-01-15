@@ -35,4 +35,5 @@ I use these programs to create design and media content for my projects🖥️.
 />
 <img src="https://github-readme-stats.vercel.app/api?username=xanauin&show_icons=true" />
 </picture>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xanauin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ashutosh00710&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
