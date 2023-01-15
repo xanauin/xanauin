@@ -9,6 +9,7 @@ I develop small games because I'm trying to find my professional industry. One w
 </p>
 <h2>I use:</h2>
 <p align="left">
+I use these programs to create design and media content for my projects🖥️.
 <img src="https://img.icons8.com/color/512/adobe-photoshop--v1.png" width="48" height="48" alt="Photoshop" />
 <img src="https://img.icons8.com/color/512/adobe-illustrator--v1.png" width="48" height="48" alt="Illustrator" />
 <img src="https://img.icons8.com/color/512/adobe-after-effects--v1.png" width="48" height="48" alt="AfterEffects" />
@@ -16,7 +17,7 @@ I develop small games because I'm trying to find my professional industry. One w
 <img src="https://img.icons8.com/color/512/adobe-dreamweaver--v1.png" width="48" height="48" alt="Dreamweaver" />
 <img src="https://img.icons8.com/color/512/figma.png" width="48" height="48" alt="Figma" />
 </p>
-<h2>My social media profiles:</h2>
+<h2>My social media profiles👀:</h2>
 <p align="left"> 
 <a href="https://discord.com/users/xanauinn#0315" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/512/discord--v2.png" width="48" height="48" /></a> 
 <a href="[https://t.me/xanauinn](mailto:https://t.me/xanauinn)" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/512/telegram-app.png" width="48" height="48" /></a>
