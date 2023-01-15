@@ -7,7 +7,7 @@ I develop small games because I'm trying to find my professional industry. One w
 <a><img src="https://img.icons8.com/ios-filled/512/unity.png" width="48" height="48" alt="Unity" /></a>
 <a><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="48" height="48" alt="C#" />
 </p>
-<h2>I use:</h2>
+<h2>I use🧑‍💻:</h2>
 <p align="left">
 <img src="https://img.icons8.com/color/512/adobe-photoshop--v1.png" width="48" height="48" alt="Photoshop" />
 <img src="https://img.icons8.com/color/512/adobe-illustrator--v1.png" width="48" height="48" alt="Illustrator" />
