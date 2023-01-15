@@ -15,6 +15,7 @@ Hello everyone! I'm glad to see you in my GitHub Profile :3
 </picture>
 <br>
 I'm a beginner C# developer, I think this is my main direction🤔.
+<br>
 I develop small games because I'm trying to find my professional industry. One where I enjoy developing cool games🎮.
 <p align="left">
 <a><img src="https://img.icons8.com/ios-filled/512/unity.png" width="48" height="48" alt="Unity" /></a>
