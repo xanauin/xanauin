@@ -36,4 +36,4 @@ I use these programs to create design and media content for my projects🖥️.
 <img src="https://github-readme-stats.vercel.app/api?username=xanauin&show_icons=true" />
 </picture>
 
-[![xanauin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=xanauin<3&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![xanauin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=xanauin&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
