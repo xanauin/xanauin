@@ -15,8 +15,8 @@ I develop small games because I'm trying to find my professional industry. One w
 <img src="https://img.icons8.com/fluency/512/adobe-photoshop.png" width="48" height="48" alt="Photoshop" />
 <img src="https://img.icons8.com/fluency/512/adobe-illustrator.png" width="48" height="48" alt="Illustrator" />
 <img src="https://img.icons8.com/fluency/512/adobe-dreamweaver.png" width="48" height="48" alt="Dreamweaver" />
-</p>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="48" height="48" alt="Figma" />
+</p>
 <h2>My social media profiles:</h2>
 <p align="left"> 
 <a href="https://discord.com/users/xanauinn#0315" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="48" height="48" /></a> 
