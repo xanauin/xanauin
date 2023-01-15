@@ -2,8 +2,6 @@ Hello everyone! I'm glad to see you in my GitHub Profile :3
 ==========
 <h2>About Me👨‍🎓:</h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=xanauin&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=xanauin&show_icons=true&theme=onedark"
@@ -15,21 +13,17 @@ Hello everyone! I'm glad to see you in my GitHub Profile :3
 />
 <img src="https://github-readme-stats.vercel.app/api?username=xanauin&show_icons=true" />
 </picture>
-<br>
-<br>
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=xanauin&column=3&margin-w=15&margin-h=15&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 I'm a beginner C# developer, I think this is my main direction🤔.
 <br>
-<br>
 I develop small games because I'm trying to find my professional industry. One where I enjoy developing cool games🎮.
-<br>
 <br>
 <p align="left">
 <a><img src="https://img.icons8.com/ios-filled/512/unity.png" width="48" height="48" alt="Unity" /></a>
 <a><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="48" height="48" alt="C#" />
 </p>
-  
-[![](https://github-readme-activity-graph.cyclic.app/graph?username=xanauin&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
 <h2>I use🧑‍💻:</h2>
 <p align="left">
 <img src="https://img.icons8.com/color/512/adobe-photoshop--v1.png" width="48" height="48" alt="Photoshop" />
@@ -47,3 +41,5 @@ I use these programs to create design and media content for my projects🖥️.
 <a href="[https://t.me/xanauinn](mailto:https://t.me/xanauinn)" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/512/telegram-app.png" width="48" height="48" /></a>
 <img src="https://img.icons8.com/color/512/behance.png" width="48" height="48" />
 </p>
+
+[![](https://github-readme-activity-graph.cyclic.app/graph?username=xanauin&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
