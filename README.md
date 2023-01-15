@@ -22,11 +22,6 @@ I develop small games because I'm trying to find my professional industry. One w
 <h2>My social media profiles:</h2>
 <p align="left"> 
 <a href="https://discord.com/users/xanauinn#0315" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="48" height="48" /></a> 
-<a href="https://www.github.com/xanauin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="48" height="48" /></a> 
-<a href="https://www.youtube.com/c/UC9E-vW5dq2f2UQS3m22ssTA" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="48" height="48" /></a>
-</p>
-<p align="left"> 
-<a href="https://www.twitch.tv/xanauin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="48" height="48" /></a>
 <img src="https://img.icons8.com/fluency/512/behance.png" width="48" height="48" />
 <a href="[https://t.me/xanauinn](mailto:https://t.me/xanauinn)" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/512/telegram-app.png" width="48" height="48" /></a>
 </p>
