@@ -10,6 +10,7 @@ I develop small games because I'm trying to find my professional industry. One w
 <h2>I use:</h2>
 <p align="left">
 I use these programs to create design and media content for my projects🖥️.
+<br>
 <img src="https://img.icons8.com/color/512/adobe-photoshop--v1.png" width="48" height="48" alt="Photoshop" />
 <img src="https://img.icons8.com/color/512/adobe-illustrator--v1.png" width="48" height="48" alt="Illustrator" />
 <img src="https://img.icons8.com/color/512/adobe-after-effects--v1.png" width="48" height="48" alt="AfterEffects" />
