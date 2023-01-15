@@ -17,8 +17,6 @@ Hello everyone! I'm glad to see you in my GitHub Profile :3
 </picture>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xanauin&theme=dracula)
-[![](https://github-profile-trophy.vercel.app/?username=xanauin&column=3&margin-w=15&margin-h=15&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 I'm a beginner C# developer, I think this is my main direction🤔.
 <br>
