@@ -2,6 +2,8 @@ Hello everyone! I'm glad to see you in my GitHub Profile :3
 ==========
 <h2>About Me👨‍🎓:</h2>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=xanauin&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=xanauin&show_icons=true&theme=onedark"
@@ -13,7 +15,6 @@ Hello everyone! I'm glad to see you in my GitHub Profile :3
 />
 <img src="https://github-readme-stats.vercel.app/api?username=xanauin&show_icons=true" />
 </picture>
-[![trophy](https://github-profile-trophy.vercel.app/?username=xanauin&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <br>
 <br>
 I'm a beginner C# developer, I think this is my main direction🤔.
