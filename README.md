@@ -1,4 +1,4 @@
-$"Hello {everyone}! I'm glad to see you in my GitHub Profile";
+Hello everyone! I'm glad to see you in my GitHub Profile"
 ==========
 <h2>About Me👨‍🎓:</h2>
 I'm a beginner C# developer, I think this is my main direction🤔.
