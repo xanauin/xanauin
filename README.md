@@ -20,6 +20,8 @@ I develop small games because I'm trying to find my professional industry. One w
 <p align="left">
 <a><img src="https://img.icons8.com/ios-filled/512/unity.png" width="48" height="48" alt="Unity" /></a>
 <a><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="48" height="48" alt="C#" />
+  
+[![](https://github-readme-activity-graph.cyclic.app/graph?username=xanauin&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </p>
 <h2>I use🧑‍💻:</h2>
 <p align="left">
@@ -38,6 +40,3 @@ I use these programs to create design and media content for my projects🖥️.
 <a href="[https://t.me/xanauinn](mailto:https://t.me/xanauinn)" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/512/telegram-app.png" width="48" height="48" /></a>
 <img src="https://img.icons8.com/color/512/behance.png" width="48" height="48" />
 </p>
-
-
-[![](https://github-readme-activity-graph.cyclic.app/graph?username=xanauin&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
