@@ -26,7 +26,7 @@ I use these programs to create design and media content for my projects🖥️.
 </p>
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=xanauin&show_icons=true&theme=synthwave"
+  srcset="https://github-readme-stats.vercel.app/api?username=xanauin&show_icons=true&theme=dracula"
   media="(prefers-color-scheme: dark)"
 />
 <source
