@@ -24,16 +24,14 @@ I use these programs to create design and media content for my projects🖥️.
 <a href="[https://t.me/xanauinn](mailto:https://t.me/xanauinn)" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/512/telegram-app.png" width="48" height="48" /></a>
 <img src="https://img.icons8.com/color/512/behance.png" width="48" height="48" />
 </p>
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?xanauin=anuraghazra&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+  srcset="https://github-readme-stats.vercel.app/api?xanauin=anuraghazra&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?xanauin=anuraghazra&show_icons=true" />
 </picture>
