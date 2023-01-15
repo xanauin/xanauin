@@ -24,3 +24,4 @@ I use these programs to create design and media content for my projects🖥️.
 <a href="[https://t.me/xanauinn](mailto:https://t.me/xanauinn)" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/512/telegram-app.png" width="48" height="48" /></a>
 <img src="https://img.icons8.com/color/512/behance.png" width="48" height="48" />
 </p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?xanauin=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
