@@ -7,7 +7,6 @@ Hello everyone! I'm glad to see you in my GitHub profile :3
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xanauin&theme=nord_dark)
 <br>
 <h4>I'm a beginner C# developer, I think this is my main direction🤔.</h4>
-<br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xanauin&theme=nord_dark)
 
