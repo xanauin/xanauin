@@ -11,7 +11,7 @@ Hello everyone! I'm glad to see you in my GitHub profile :3
 <h4>I'm a beginner C# developer, I think this is my main direction🤔.</h4>
 <br>
 
-![](https://github-readme-stats.vercel.app/api?username=xanauin&theme=tokyonight&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=xanauin&theme=nord&show_icons=true)
 </p>
 <p>
 <h4>I develop small games because I'm trying to find my professional industry. One where I enjoy developing cool games🎮.</h4>
