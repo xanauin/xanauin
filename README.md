@@ -18,7 +18,7 @@ Hello everyone! I'm glad to see you in my GitHub profile :3
   
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=xanauin&show_icons=true&theme=monokai"
+  srcset="https://github-readme-stats.vercel.app/api?username=xanauin&show_icons=true&theme=nord"
   media="(prefers-color-scheme: dark)"
 />
 <source
