@@ -32,7 +32,6 @@ Hello everyone! I'm glad to see you in my GitHub profile :3
 <img src="https://img.icons8.com/color/512/adobe-premiere-pro--v1.png" width="48" height="48" alt="PremierPro" />
 <img src="https://img.icons8.com/color/512/adobe-after-effects--v1.png" width="48" height="48" alt="AfterEffects" />
 <img src="https://img.icons8.com/color/512/adobe-illustrator--v1.png" width="48" height="48" alt="Illustrator" />
-<img src="https://img.icons8.com/color/512/adobe-dreamweaver--v1.png" width="48" height="48" alt="Dreamweaver" />
 <img src="https://img.icons8.com/color/512/figma.png" width="48" height="48" alt="Figma" />
 </p>
 <h4>And use these to write code⌨️.<h4>
@@ -40,6 +39,7 @@ Hello everyone! I'm glad to see you in my GitHub profile :3
 <img src="https://img.icons8.com/color/512/visual-studio-code-2019.png" width="48" height="48" alt="VisualStudioCode" />
 <img src="https://img.icons8.com/color/512/visual-studio--v2.png" width="48" height="48" alt="VisualStudio" />
 <img src="https://img.icons8.com/color/512/android-studio--v3.png" width="48" height="48" alt="AndroidStudio" />
+<img src="https://img.icons8.com/color/512/adobe-dreamweaver--v1.png" width="48" height="48" alt="Dreamweaver" />
 </p>
 <h2>My social media profiles👀:</h2>
 <p align="left"> 
