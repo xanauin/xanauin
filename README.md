@@ -11,7 +11,7 @@ Hello everyone! I'm glad to see you in my GitHub profile :3
 
 <h4>I develop small games because I'm trying to find my professional industry. One where I enjoy developing cool games🎮.</h4>
 
-<picture>
+<div>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=xanauin&show_icons=true&theme=nord"
   media="(prefers-color-scheme: dark)"
@@ -21,9 +21,7 @@ Hello everyone! I'm glad to see you in my GitHub profile :3
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=xanauin&show_icons=true" />
-</picture>
-
------------
+</div>
 
 <h4>Usually i use:</h4>
 <p>  
