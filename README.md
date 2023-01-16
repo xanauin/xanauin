@@ -1,4 +1,4 @@
-Hello everyone! I'm glad to see you in my GitHub Profile :3
+Hello everyone! I'm glad to see you in my GitHub profile :3
 ==========
 <h2>About Me👨‍🎓:</h2>
 <h4>My name is Vlad, 17 y.o. and I gonna be a proffesional coder.</h4>
@@ -50,8 +50,8 @@ Hello everyone! I'm glad to see you in my GitHub Profile :3
 <h2>My social media profiles👀:</h2>
 <p align="left"> 
 <a href="https://discord.com/users/xanauinn#0315" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/512/discord--v2.png" width="48" height="48" /></a> 
-<a href="[https://t.me/xanauinn](mailto:https://t.me/xanauinn)" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/512/telegram-app.png" width="48" height="48" /></a>
-<img src="https://img.icons8.com/color/512/behance.png" width="48" height="48" />
+<a href="https://t.me/xanauinn" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/512/telegram-app.png" width="48" height="48" /></a>
+<a href="https://www.behance.net/xanauin" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/512/behance.png" width="48" height="48" /></a>
 </p>
 
 [![](https://github-readme-activity-graph.cyclic.app/graph?username=xanauin&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
