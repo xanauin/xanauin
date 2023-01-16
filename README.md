@@ -11,7 +11,6 @@ Hello everyone! I'm glad to see you in my GitHub profile :3
 <h4>I'm a beginner C# developer, I think this is my main direction🤔.</h4>
 <br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xanauin&theme=tokyonight )
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xanauin&theme=tokyonight )
 </p>
 <p>
