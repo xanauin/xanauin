@@ -11,8 +11,8 @@ Hello everyone! I'm glad to see you in my GitHub profile :3
 
 <br>
 <h4>I develop small games because I'm trying to find my professional industry. One where I enjoy developing cool games🎮.</h4>
-<br>
-  
+
+
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=xanauin&show_icons=true&theme=nord"
